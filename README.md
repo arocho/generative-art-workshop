@@ -3,6 +3,8 @@ _A workshop for PyCaribbean 2017_
 
 If you want to learn about _APIs_, _generative art_, and _Processing_, you're in the right place!
 
+This workshop is for people who would like to explore artistic expression through the use of a programming language, or people who are interested in creative forms of data visualization. By the end of this workshop you will have created data-driven, generative art using Python. In this workshop, you will learn how to: use Processing in Python mode, identify APIs that provide useful data for creating generative art, and create a unique work of art by calling a weather API and defining an original generative art algorithm. Please bring a laptop to participate in the hands-on activities.
+
 Keep going through this README if you want to set up your computer the _fast_ way. If you prefer thorough, and detailed step-by-step instructions, your best bet is to go use this [Processing.py Getting Started Tutorial](http://py.processing.org/tutorials/gettingstarted/) instead.
 
 Whether you're going to participate in the workshop at PyCaribbean, or are just looking at this repository for funsies, you will need to first:
